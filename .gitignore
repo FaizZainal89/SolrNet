@@ -31,3 +31,4 @@ packages/*
 .nuget/*.exe
 *.sln.ide
 .vs/*
+FileToBeIgnored.txt

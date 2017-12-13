@@ -38,6 +38,8 @@ foreach (var facet in r.FacetFields["category"]) {
 }
 ```
 
+This is the commit in the other branch
+
 ### Date facets
 Date facet queries create facets from date ranges. Sample code:
 
